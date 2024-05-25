@@ -39,6 +39,10 @@ Este proyecto es el backend de una tienda en línea de productos tecnológicos, 
 
 4. Una vez que el servidor esté en funcionamiento, podrás acceder a los endpoints de la API desde el frontend o mediante herramientas como Postman.
 
+5. Las credenciales por defecto para ingresar como administrador son:
+  correo electrónico: admin@mail.com
+  contraseña: 123456
+
 ## Contribución
 
 Si deseas contribuir a este proyecto, puedes seguir los siguientes pasos:
